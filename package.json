@@ -1,0 +1,30 @@
+{
+  "name": "wow-ah-gatherer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/parse.js",
+  "scripts": {
+    "build": "npm run clean && tsc",
+    "cli": "node dist/cli.js",
+    "clean": "rm -rf dist",
+    "prepare": "node_modules/.bin/tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserless": "^5.19.4",
+    "chrome-aws-lambda": "^2.0.1",
+    "csv-parse": "^4.8.2",
+    "is-url": "^1.2.4",
+    "minimist": "^1.2.0",
+    "puppeteer-cluster": "^0.18.0",
+    "puppeteer-core": "^2.0.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^2.0.0",
+    "puppeteer": "^2.0.0",
+    "typescript": "^3.2.2"
+  }
+}

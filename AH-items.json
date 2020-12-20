@@ -1,0 +1,460 @@
+{
+  "items": {
+    "herbalism_items": {
+      "Shadowlands Herbs": {
+        "Widowbloom": {
+          "currentPrice": 98.98,
+          "lastSeen": "11 minutes ago"
+        },
+        "Nightshade": {
+          "currentPrice": 75.56,
+          "lastSeen": "11 minutes ago"
+        },
+        "Vigil's Torch": {
+          "currentPrice": 58.65,
+          "lastSeen": "11 minutes ago"
+        },
+        "Marrowroot": {
+          "currentPrice": 49.26,
+          "lastSeen": "11 minutes ago"
+        },
+        "Rising Glory": {
+          "currentPrice": 47.81,
+          "lastSeen": "11 minutes ago"
+        },
+        "Death Blossom": {
+          "currentPrice": 12.04,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Ground Shadowlands Herbs": {
+        "Ground Rising Glory": {
+          "currentPrice": 64.79,
+          "lastSeen": "11 minutes ago"
+        },
+        "Ground Widowbloom": {
+          "currentPrice": 53.9,
+          "lastSeen": "11 minutes ago"
+        },
+        "Ground Nightshade": {
+          "currentPrice": 44.04,
+          "lastSeen": "11 minutes ago"
+        },
+        "Ground Marrowroot": {
+          "currentPrice": 35.78,
+          "lastSeen": "11 minutes ago"
+        },
+        "Ground Death Blossom": {
+          "currentPrice": 23.98,
+          "lastSeen": "11 minutes ago"
+        },
+        "Ground Vigil's Torch": {
+          "currentPrice": 15,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Battle for Azeroth Herbs": {
+        "Anchor Weed": {
+          "currentPrice": 28,
+          "lastSeen": "11 minutes ago"
+        },
+        "Zin'anthid": {
+          "currentPrice": 8,
+          "lastSeen": "11 minutes ago"
+        },
+        "Riverbud": {
+          "currentPrice": 2.2,
+          "lastSeen": "11 minutes ago"
+        },
+        "Star Moss": {
+          "currentPrice": 2.04,
+          "lastSeen": "11 minutes ago"
+        },
+        "Siren's Pollen": {
+          "currentPrice": 1.43,
+          "lastSeen": "11 minutes ago"
+        },
+        "Akunda's Bite": {
+          "currentPrice": 1.09,
+          "lastSeen": "11 minutes ago"
+        },
+        "Winter's Kiss": {
+          "currentPrice": 1.02,
+          "lastSeen": "11 minutes ago"
+        },
+        "Sea Stalk": {
+          "currentPrice": 1,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Legion Herbs": {
+        "Starlight Rose": {
+          "currentPrice": 49.9,
+          "lastSeen": "11 minutes ago"
+        },
+        "Felwort": {
+          "currentPrice": 49,
+          "lastSeen": "11 minutes ago"
+        },
+        "Foxflower": {
+          "currentPrice": 13.6,
+          "lastSeen": "11 minutes ago"
+        },
+        "Fjarnskaggl": {
+          "currentPrice": 11.98,
+          "lastSeen": "11 minutes ago"
+        },
+        "Dreamleaf": {
+          "currentPrice": 10.62,
+          "lastSeen": "11 minutes ago"
+        },
+        "Aethril": {
+          "currentPrice": 10.04,
+          "lastSeen": "11 minutes ago"
+        },
+        "Astral Glory": {
+          "currentPrice": 8.95,
+          "lastSeen": "11 minutes ago"
+        },
+        "Yseralline Seed": {
+          "currentPrice": 1,
+          "lastSeen": "11 minutes ago"
+        }
+      }
+    },
+    "alchemy_items": {
+      "Anti-Venoms": {
+        "Spiritual Anti-Venom": {
+          "currentPrice": 0.5,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Combat Potions": {
+        "Potion of Spectral Agility": {
+          "currentPrice": 524.53,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Empowered Exorcisms": {
+          "currentPrice": 444.86,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Deathly Fixation": {
+          "currentPrice": 390.9,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Spectral Strength": {
+          "currentPrice": 326.2,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Phantom Fire": {
+          "currentPrice": 300.63,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Spectral Intellect": {
+          "currentPrice": 294.76,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Spiritual Clarity": {
+          "currentPrice": 210.46,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Spectral Stamina": {
+          "currentPrice": 106.42,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Divine Awakening": {
+          "currentPrice": 90.7,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Sacrificial Anima": {
+          "currentPrice": 48.97,
+          "lastSeen": "11 minutes ago"
+        },
+        "Spiritual Rejuvenation Potion": {
+          "currentPrice": 33.8,
+          "lastSeen": "11 minutes ago"
+        },
+        "Spiritual Healing Potion": {
+          "currentPrice": 30.55,
+          "lastSeen": "11 minutes ago"
+        },
+        "Spiritual Mana Potion": {
+          "currentPrice": 29.46,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Hardened Shadows": {
+          "currentPrice": 3.09,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Flasks": {
+        "Spectral Flask of Power": {
+          "currentPrice": 1261.86,
+          "lastSeen": "11 minutes ago"
+        },
+        "Spectral Flask of Stamina": {
+          "currentPrice": 266.74,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Common Oils and Extracts": {
+        "Embalmer's Oil": {
+          "currentPrice": 30.08,
+          "lastSeen": "11 minutes ago"
+        },
+        "Shadowcore Oil": {
+          "currentPrice": 29.95,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Uncommon Oils and Extracts": {
+        "Ground Rising Glory": {
+          "currentPrice": 64.79,
+          "lastSeen": "11 minutes ago"
+        },
+        "Ground Widowbloom": {
+          "currentPrice": 53.9,
+          "lastSeen": "11 minutes ago"
+        },
+        "Ground Nightshade": {
+          "currentPrice": 44.04,
+          "lastSeen": "11 minutes ago"
+        },
+        "Ground Marrowroot": {
+          "currentPrice": 35.78,
+          "lastSeen": "11 minutes ago"
+        },
+        "Ground Death Blossom": {
+          "currentPrice": 23.98,
+          "lastSeen": "11 minutes ago"
+        },
+        "Ground Vigil's Torch": {
+          "currentPrice": 15,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Transmutation": {
+        "Shadestone": {
+          "currentPrice": 2278.5,
+          "lastSeen": "11 minutes ago"
+        },
+        "Shadowghast Ingot": {
+          "currentPrice": 119.9,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Utility Potions": {
+        "Potion of the Psychopomp's Speed": {
+          "currentPrice": 257.7,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of the Hidden Spirit": {
+          "currentPrice": 55.15,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Unhindered Passing": {
+          "currentPrice": 4.35,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Soul Purity": {
+          "currentPrice": 1.37,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Shaded Sight": {
+          "currentPrice": 0.87,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Specter Swiftness": {
+          "currentPrice": 0.86,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Other": {
+        "Red Noggin Candle": {
+          "currentPrice": 290,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Combat Potions1": {
+        "Steelskin Potion": {
+          "currentPrice": 357.96,
+          "lastSeen": "11 minutes ago"
+        },
+        "Battle Potion of Agility": {
+          "currentPrice": 191.13,
+          "lastSeen": "11 minutes ago"
+        },
+        "Superior Steelskin Potion": {
+          "currentPrice": 100,
+          "lastSeen": "11 minutes ago"
+        },
+        "Superior Battle Potion of Strength": {
+          "currentPrice": 99.94,
+          "lastSeen": "11 minutes ago"
+        },
+        "Superior Battle Potion of Intellect": {
+          "currentPrice": 96.17,
+          "lastSeen": "11 minutes ago"
+        },
+        "Superior Battle Potion of Agility": {
+          "currentPrice": 89.98,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Bursting Blood": {
+          "currentPrice": 80.68,
+          "lastSeen": "11 minutes ago"
+        },
+        "Battle Potion of Intellect": {
+          "currentPrice": 68.07,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Wild Mending": {
+          "currentPrice": 48.33,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Unbridled Fury": {
+          "currentPrice": 47.99,
+          "lastSeen": "11 minutes ago"
+        },
+        "Superior Battle Potion of Stamina": {
+          "currentPrice": 42.05,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Empowered Proximity": {
+          "currentPrice": 34.12,
+          "lastSeen": "11 minutes ago"
+        },
+        "Battle Potion of Strength": {
+          "currentPrice": 32.42,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Focused Resolve": {
+          "currentPrice": 10,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Rising Death": {
+          "currentPrice": 9.7,
+          "lastSeen": "11 minutes ago"
+        },
+        "Abyssal Healing Potion": {
+          "currentPrice": 7.5,
+          "lastSeen": "11 minutes ago"
+        },
+        "Battle Potion of Stamina": {
+          "currentPrice": 1.27,
+          "lastSeen": "11 minutes ago"
+        },
+        "Coastal Healing Potion": {
+          "currentPrice": 0.6,
+          "lastSeen": "11 minutes ago"
+        },
+        "Coastal Mana Potion": {
+          "currentPrice": 0.6,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Replenishment": {
+          "currentPrice": 0.25,
+          "lastSeen": "11 minutes ago"
+        },
+        "Coastal Rejuvenation Potion": {
+          "currentPrice": 0.08,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Utility Potions1": {
+        "Potion of the Unveiling Eye": {
+          "currentPrice": 13.33,
+          "lastSeen": "11 minutes ago"
+        },
+        "Sea Mist Potion": {
+          "currentPrice": 6.61,
+          "lastSeen": "11 minutes ago"
+        },
+        "Lightfoot Potion": {
+          "currentPrice": 3.29,
+          "lastSeen": "11 minutes ago"
+        },
+        "Demitri's Draught of Deception": {
+          "currentPrice": 0.54,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Concealment": {
+          "currentPrice": 0.48,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Flasks1": {
+        "Greater Flask of the Currents": {
+          "currentPrice": 485,
+          "lastSeen": "11 minutes ago"
+        },
+        "Greater Flask of the Vast Horizon": {
+          "currentPrice": 213.41,
+          "lastSeen": "11 minutes ago"
+        },
+        "Greater Flask of the Undertow": {
+          "currentPrice": 201.28,
+          "lastSeen": "11 minutes ago"
+        },
+        "Flask of the Undertow": {
+          "currentPrice": 200,
+          "lastSeen": "11 minutes ago"
+        },
+        "Flask of the Currents": {
+          "currentPrice": 199.99,
+          "lastSeen": "11 minutes ago"
+        },
+        "Flask of Endless Fathoms": {
+          "currentPrice": 199.95,
+          "lastSeen": "11 minutes ago"
+        },
+        "Greater Flask of Endless Fathoms": {
+          "currentPrice": 195,
+          "lastSeen": "11 minutes ago"
+        },
+        "Flask of the Vast Horizon": {
+          "currentPrice": 151.5,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Uncommon Trinkets": {
+        "Endless Tincture of Renewed Combat]5": {
+          "currentPrice": 6999.28,
+          "lastSeen": "11 minutes ago"
+        },
+        "Endless Tincture of Renewed Combat]6": {
+          "currentPrice": 6999.28,
+          "lastSeen": "12/8/2020"
+        },
+        "Siren's Alchemist Stone]5": {
+          "currentPrice": 2400.47,
+          "lastSeen": "17 hours ago"
+        },
+        "Siren's Alchemist Stone]6": {
+          "currentPrice": 2400.47,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Rare Trinkets": {
+        "Surging Alchemist Stone]6": {
+          "currentPrice": 9899.14,
+          "lastSeen": "18 hours ago"
+        },
+        "Endless Tincture of Fractional Power]6": {
+          "currentPrice": 3490.86,
+          "lastSeen": "11 minutes ago"
+        }
+      },
+      "Follower Equipment": {
+        "Vial of Obfuscation": {
+          "currentPrice": 7597,
+          "lastSeen": "11 minutes ago"
+        },
+        "Potion of Herb Tracking": {
+          "currentPrice": 250,
+          "lastSeen": "11 minutes ago"
+        }
+      }
+    }
+  }
+}
